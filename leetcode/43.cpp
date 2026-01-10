@@ -47,6 +47,6 @@ int main()
     Solution sol;
     string num1 = "4566516514648516965167894516";
     string num2 = "7156516354761684446464834348648443";
-    cout << sol.multiply(num1, num2) << endl; // Output: "326997769246507769263983208205246597628"
+    cout << sol.multiply(num1, num2) << endl; // Output: "32680350121371436826803065718515425196384883380322000591638588"
     return 0;
 }
